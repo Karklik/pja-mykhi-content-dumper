@@ -26,7 +26,7 @@ PJC_2018 zaoczne dumped total size: (137.560546875, 'kilobytes')
 BSI dumped total size: (241.01168251037598, 'megabytes')
 ```
 
-### Estimate total size only
+### Estimate total size mode
 To calculate estimated total size of subject just add `-s` argument
 ```
 py index.py SUBJECT1 SUBJECT2 ... -s
