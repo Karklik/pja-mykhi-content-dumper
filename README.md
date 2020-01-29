@@ -10,7 +10,7 @@ This short python script helps with content dumping of https://pja.mykhi.org/ fo
 ## Usage
 All school subjects should be given as argument list with space seperator. Subject name must be same as display name of directory in pja.mykhi.org 
 
-### Dump mode (Defaul)
+### Dump mode (Default)
 All sbuject subdirectories and files will be dumped to relative directory `dump/`
 
 ```
