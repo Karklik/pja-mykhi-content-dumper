@@ -8,7 +8,7 @@ This short python script helps with content dumping of https://pja.mykhi.org/ fo
 - `pip install requests --user`
 
 ## Usage
-If you want to use program for all subjects in args add `-a`, otherwise in args add subject folder names as list with space seperator. Subject name must be same as display name of directory in pja.mykhi.org 
+If you want to use program for all subjects in args add `-a`, otherwise in args add subject names as list with space seperator. Subject name must be same as display name of directory in pja.mykhi.org 
 
 ### Dump mode (Default)
 All sbuject subdirectories and files will be dumped to relative directory `dump/`
